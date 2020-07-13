@@ -1,5 +1,4 @@
 # task1
-hiiio
-hdfjdf
-hjfk
-jj
+hiii 
+hello 
+hijrfjefkj
